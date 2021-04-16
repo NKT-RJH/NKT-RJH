@@ -1,5 +1,5 @@
-### Hi there 👋
-![NKT0916's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKT0916&theme=buefy&show_icons=true)
+### Hi there 👋 I'm Ryu Ji Hoon
+![NKT-RJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKT-RJH&theme=buefy&show_icons=true)
 <!--
 **NKT0916/NKT0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
