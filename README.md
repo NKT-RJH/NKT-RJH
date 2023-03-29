@@ -1,10 +1,5 @@
-### Hi there 👋 I'm Ryu Ji Hoon
-![NKT-RJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKT-RJH&theme=buefy&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKT-RJH)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on school
-- 🌱 I’m currently learning C, C#
-- 💬 Ask me about interesting things
+### 👋 I'm Ji Hoon Ryu
+* * *
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=C#&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
